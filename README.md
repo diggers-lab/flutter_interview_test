@@ -8,16 +8,16 @@ Vous êtes invité à examiner le code source existant de cette application. Vot
 
 Voici les tâches spécifiques à réaliser :
 
-1. **Revue de Code :**
+1. **Revue de Code : (20 min)**
    - Étudiez le code fourni et identifiez les bonnes pratiques ainsi que les mauvaises.
    - Faites une liste des améliorations possibles et des problèmes rencontrés.
    - Proposez également des solutions pour les problèmes identifiés.
 
-2. **Ajout d'un Champ de Description :**
+2. **Ajout d'un Champ de Description : (20 min)**
    - Sur la page de détail de la note, ajoutez un champ permettant à l'utilisateur d'ajouter une description à sa note.
 
-3. **Persistance des Données :**
+3. **Persistance des Données : (5 min)**
    - Réfléchissez à une méthode permettant de sauvegarder la description ajoutée par l'utilisateur. Comment intégreriez-vous cette solution dans l'application actuelle ?
 
-4. **Choix de la Base de Données :**
+4. **Choix de la Base de Données : (5 min)**
    - Selon vous, quel serait le type de base de données le plus adapté pour une application de prise de notes comme celle-ci ? Justifiez votre réponse.
